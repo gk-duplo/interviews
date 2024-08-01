@@ -20,7 +20,7 @@ Direction: The current direction of movement (up, down, or stationary).
 ```json
 [
   {"elevator": 0, "current_floor": 0, "direction": "stationary"},
-  {"elevator": 1, "current_floor": null, "next_floor": 8, "direction": "up", dest[9]},
+  {"elevator": 1, "current_floor": null, "next_floor": 8, "direction": "up", "dest": [9]},
   {"elevator": 2, "current_floor": 4, "direction": "stationary"}
 ]
 ```
