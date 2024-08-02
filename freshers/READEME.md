@@ -19,7 +19,7 @@ Demonstrate your ability to work with AWS and Terraform by completing the follow
 1. Set up an Internet Gateway (IGW).
 2. Configure Route Tables to ensure internet access.
 
-### EC2 Configuration: Launch and configure EC2 instances
+### EC2 Configuration: Launch and configure EC2 instance
 
 **Tasks:**
 1. Launch EC2 instances within the created VPC.
